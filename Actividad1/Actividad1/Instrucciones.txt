@@ -1,0 +1,9 @@
+  Tangram 26 Feb
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Realiza un tangram en opengl como los siguientes.
+Investiga y toma en cuenta lo que aprendiste en las clases anteriores así como la presentación como desarrollar un tangram 
+como el siguiente
+
+1) La distribución debe ser diferente usa alguno de los ejemplos mostrados
+2) Deberán tener colores diferentes
+3) Deberán ser 7 figuras como en el ejemplo y tener colores diferentes
